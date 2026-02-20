@@ -1,0 +1,2 @@
+# Supdominio
+Script termux
